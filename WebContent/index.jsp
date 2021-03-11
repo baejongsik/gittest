@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>HELLO GIT</h1>
+	<p>폐기 단축키 컨트롤 쉬프트 알 => 커밋하기 전에 변경내용 취소</p>
 </body>
 </html>
